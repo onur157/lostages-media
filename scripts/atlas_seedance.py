@@ -67,6 +67,9 @@ def main():
     a = p.parse_args()
 
     key = os.environ.get("ATLASCLOUD_API_KEY")
+    kf = os.path.expanduser("~/.config/atlas_key")
+    if not key and os.path.exists(kf):
+        key = open(kf).read().strip()
     if not key:
         sys.exit("ATLASCLOUD_API_KEY is not set")
 
