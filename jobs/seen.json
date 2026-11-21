@@ -6427,5 +6427,35 @@
     "title": "AI Video US $100 (payment not verified)",
     "shown": "2026-11-21",
     "status": "skipped"
+  },
+  {
+    "url": "https://www.upwork.com/jobs/~022124029773855594126",
+    "title": "Meta ad video editor 7 edits CA $50 client $4.3k 5.0 94% hire (8c, $50 bid)",
+    "shown": "2026-11-21",
+    "status": "preview"
+  },
+  {
+    "url": "https://www.upwork.com/jobs/~022123890149850093198",
+    "title": "Perfume brand identity+packaging IND $50 new client (5c, $90 bid)",
+    "shown": "2026-11-21",
+    "status": "preview"
+  },
+  {
+    "url": "https://www.upwork.com/jobs/~022123460524430857870",
+    "title": "Blender album loop animation UK $200 (no AI allowed)",
+    "shown": "2026-11-21",
+    "status": "skipped"
+  },
+  {
+    "url": "https://www.upwork.com/jobs/~022123712238261035463",
+    "title": "Blender building-panel viz AU hourly 10-40 (16c > bal 9, can_apply false)",
+    "shown": "2026-11-21",
+    "status": "blocked-connects"
+  },
+  {
+    "url": "https://www.upwork.com/jobs/~022124035741591820958",
+    "title": "Shopify theme fix HK $40 4.99 $10k (11c > bal 9)",
+    "shown": "2026-11-21",
+    "status": "blocked-connects"
   }
 ]
